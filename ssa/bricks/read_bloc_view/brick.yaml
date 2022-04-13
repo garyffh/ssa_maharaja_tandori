@@ -1,0 +1,4 @@
+name: read_bloc_view
+description: A new brick created with the Mason CLI.
+vars:
+  - name

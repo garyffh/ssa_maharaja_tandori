@@ -1,0 +1,4 @@
+enum CheckoutAddressViewType {
+view,
+update,
+}
