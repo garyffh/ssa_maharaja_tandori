@@ -1,0 +1,9 @@
+const String trnOrderStoreStatusScheduledText='Scheduled';
+const String trnOrderStoreStatusNoDriverText='No Driver';
+const String trnOrderStoreStatusQueuedText='Queued';
+const String trnOrderStoreStatusPreparingText='Preparing';
+const String trnOrderStoreStatusWaitingForPickupText='Waiting For Pickup';
+const String trnOrderStoreStatusWaitingForDeliveryText='Waiting For Delivery';
+const String trnOrderStoreStatusDeliveringText='Delivering';
+const String trnOrderStoreStatusCompletedText='Completed';
+const String trnOrderStoreStatusCancelledText='Cancelled';

@@ -1,0 +1,1 @@
+enum CartActiveItemUpdateType{addItemView, updateItemView,}

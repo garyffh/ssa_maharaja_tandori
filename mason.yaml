@@ -1,0 +1,5 @@
+bricks:
+  bloc_view:
+    path: bricks\bloc_view
+  read_bloc_view:
+    path: bricks\read_bloc_view
